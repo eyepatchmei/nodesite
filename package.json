@@ -1,0 +1,19 @@
+{
+  "name": "nodesite",
+  "version": "0.0.0",
+  "description": "Node.js Static Site Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/nineinch/nodesite"
+  },
+  "keywords": [
+    "static",
+    "site"
+  ],
+  "author": "Freeze",
+  "license": "ISC"
+}
