@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Node.js Static Site Template",
   "dependencies": {
-    "express" : "*",
+    "express" : "3.x.xError: listen EADDRINUSE",
     "stylus" : "*",
     "jade":"*"
   },
